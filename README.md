@@ -12,7 +12,7 @@ Hackintosh OpenCore macOS Big Sur 11.1 on ASUS ROG STRIX SCAR 15-G532LV !
 * SSD: Intel SSDPEKNW512G8
 * WI-FI + BT Card: Intel AX201
 * Audio Card: Realtek ALC294
-* TouchPad: ELAN 1403
+* TouchPad: ELAN 1405
 
 ![About](https://github.com/Alex-V2000/ASUS-ROG-G532LV-Hackintosh-Big-Sur/blob/main/Screenshots/1.png)
 
