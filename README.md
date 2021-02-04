@@ -37,9 +37,9 @@ Hackintosh OpenCore macOS Big Sur 11.2 on ASUS ROG STRIX SCAR 15-G532LV !
 ### Keyboard Shortcuts and KB Backlight:
 * Open `macROGAuraCore` folder.
 * On terminal run `chmod +x install.sh`, and execute the script.
-* Copy `ROG-HID.app` and `ROGSwitch.app` in `/Applications`.
+* Copy `ROG-HID.app` , `ROGSwitch.app` and `macAura.app` in `/Applications`.
 * Run `ROG-HID.app` and click on 'Activate ROG-HID Extension'.
-* Run `ROGSwitch.app`.
+* Run `ROGSwitch.app` and if you want `macAura.app`.
 
 ### Bugs:
 * When the device is turned on directly on macOS, the processor fan will not stop, to solve the problem, first start Windows, and then restart on macOS.
