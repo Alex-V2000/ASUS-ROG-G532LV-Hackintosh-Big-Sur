@@ -1,8 +1,9 @@
 # ASUS-ROG-G532LV-Hackintosh-Big-Sur
-Hackintosh OpenCore macOS Big Sur 11.1 on ASUS ROG STRIX SCAR 15-G532LV !
+Hackintosh OpenCore macOS Big Sur 11.2 on ASUS ROG STRIX SCAR 15-G532LV !
 
 ### Only for MacOS Big Sur !
-### OpenCore 0.6.5
+### OpenCore 0.6.6
+### With this EFI you can successfully boot Windows 10 !
 
 ### Laptop Specifications:
 * Processor: Intel Core i7-10875H 2.3GHz (Turbo 5.10GHz)
